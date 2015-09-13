@@ -1,0 +1,7 @@
+LOCUS       BBa_K608007               57 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K608007 P 22312 Intermediate "medium Promoter , weak RBS"      
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttacggcta gctcagtcct aggtacaatg ctagctacta gagtcacaca ggaaacc
+//

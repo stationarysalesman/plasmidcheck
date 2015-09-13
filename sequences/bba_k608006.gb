@@ -1,0 +1,7 @@
+LOCUS       BBa_K608006               56 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K608006 P 22311 Intermediate "medium Promoter , medium RBS"    
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttacggcta gctcagtcct aggtacaatg ctagctacta gagtcacaca ggaaag
+//

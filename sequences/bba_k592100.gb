@@ -1,0 +1,18 @@
+LOCUS       BBa_K592100              705 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K592100 P 22724 Coding "Blue Fluorescent Protein (mTagBFP)"    
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgagcgaac tgatcaaaga gaacatgcac atgaagctgt acatggaagg caccgttgac
+       61 aaccaccact ttaagtgcac gtctgagggt gagggtaagc cgtacgaagg cacccaaacc
+      121 atgcgtatca aagttgtgga gggcggtcca ctgccgttcg cttttgacat tctggcgacc
+      181 agcttcctgt acggttccaa aacgttcatt aaccatactc agggcattcc ggatttcttc
+      241 aaacagagct ttccggaagg tttcacctgg gagcgtgtca ccacgtatga agatggtggt
+      301 gtgttgaccg ccacccaaga tacctccctg caagatggct gtctgatcta taacgtgaaa
+      361 attcgtggcg tcaactttac gagcaatggt ccggtgatgc agaagaaaac cctgggttgg
+      421 gaggcgttta cggaaaccct gtatccggcc gatggtggcc tggagggccg taacgacatg
+      481 gcactgaagc tggttggtgg cagccatttg atcgcaaata tcaagacgac gtaccgcagc
+      541 aagaaaccgg cgaaaaatct gaagatgccg ggtgtttact atgtcgacta ccgtctggaa
+      601 cgcattaaag aagcgaataa tgagacttac gtggagcagc acgaggttgc agtcgcgcgc
+      661 tattgcgact tgcctagcaa gctgggtcat aaactgaatt aataa
+//

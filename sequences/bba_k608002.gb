@@ -1,0 +1,7 @@
+LOCUS       BBa_K608002               55 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K608002 P 22307 Intermediate "strong Promoter and strong RBS"  
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgacagcta gctcagtcct aggtattgtg ctagctacta gagaaagagg agaaa
+//

@@ -1,0 +1,26 @@
+LOCUS       BBa_J45004              1074 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_J45004 A 6774 Coding "SAM%3Abenzoic acid/salicylic acid        
+            carboxyl methyltransferase I%3B converts salicylic acid to methyl
+            sali"
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atggaagttg ttgaagttct tcacatgaat ggaggaaatg gagacagtag ctatgcaaac
+       61 aattctttgg ttcagcaaaa ggtgattctc atgacaaagc caataactga gcaagccatg
+      121 attgatctct acagcagcct ctttccagaa accttatgca ttgcagattt gggttgttct
+      181 ttgggagcta acactttctt ggtggtctca cagcttgtta aaatagtaga aaaagaacga
+      241 aaaaagcatg gttttaagtc tccagagttt tattttcact tcaatgatct tcctggcaat
+      301 gattttaata cactttttca gtcactgggg gcatttcaag aagatttgag aaagcatata
+      361 ggggaaagct ttggtccatg ttttttcagt ggagtgcctg gttcatttta tactagactt
+      421 ttcccttcca aaagtttaca ttttgtttac tcctcctaca gtctcatgtg gctatctcag
+      481 gtgcctaatg ggattgaaaa taacaaggga aacatttaca tggcaagaac aagccctcta
+      541 agtgttatta aagcatacta caagcaatat gaaatagatt tttcaaattt tctcaagtac
+      601 cgttcagagg aattgatgaa aggtggaaag atggtgttaa cactcctagg tagagaaagt
+      661 gaggatccta ctagcaaaga atgctgttac atttgggagc ttctagccat ggccctcaat
+      721 aagttggttg aagagggatt gataaaagaa gagaaagtag atgcattcaa tattcctcaa
+      781 tacacaccat caccagcaga agtaaagtac atagttgaga aggaaggatc attcaccatt
+      841 aatcgcttgg aaacatcaag agttcattgg aatgcttcta ataatgagaa gaatggtggt
+      901 tacaatgtgt caaggtgcat gagagctgtg gctgagcctt tgcttgtcag ccactttgac
+      961 aaggaattga tggatttagt gttccacaag tacgaagaga ttgtttctga ttgcatgtcc
+     1021 aaagagaata ctgagtttat aaatgtcatc atctccttga ccaaaataaa ttaa
+//

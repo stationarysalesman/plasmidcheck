@@ -1,0 +1,35 @@
+LOCUS       BBa_J45014              1581 bp ds-DNA     linear       27-MAR-2015
+DEFINITION  .
+COMMENT     BBa_J45014 A 7016 Coding "alcohol acetyltransferase I%3B converts  
+            isoamyl alcohol to isoamyl acetate (banana odor)"
+COMMENT     Reverse and Forward sequence are reliable and match up correctly   
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgaatgaaa tcgatgagaa aaatcaggcc cccgtgcaac aagaatgcct gaaagagatg
+       61 attcagaatg ggcatgctcg gcgtatggga tctgttgaag atctgtatgt tgctctcaac
+      121 agacaaaact tatatcgaaa cttctgcaca tatggagaat tgagtgatta ctgtactagg
+      181 gatcagctca cattagcttt gagggaaatc tgcctgaaaa atccaactct tttacatatt
+      241 gttctaccaa caagatggcc aaatcatgaa aattattatc gcagttccga atactattca
+      301 cggccacatc cagtgcatga ttatatttca gtattacaag aattgaaact gagtggtgtg
+      361 gttctcaatg aacaacctga gtacagtgca gtaatgaagc aaatattaga agagttcaaa
+      421 aatagtaagg gttcctatac tgcaaaaatt tttaaactta ctaccacttt gactattcct
+      481 tactttggac caacaggacc gagttggcgg ctaatttgtc ttccagaaga gcacacagaa
+      541 aagtggaaaa aatttatctt tgtatctaat cattgcatgt ctgatggtcg gtcttcgatc
+      601 cacttttttc atgatttaag agacgaatta aataatatta aaactccacc aaaaaaatta
+      661 gattacattt tcaagtacga ggaggattac caattattga ggaaacttcc agaaccgatc
+      721 gaaaaggtga tagactttag accaccgtac ttgtttattc cgaagtcact tctttcgggt
+      781 ttcatctaca atcatttgag attttcttca aaaggtgtct gtatgagaat ggatgatgtg
+      841 gaaaaaaccg atgatgttgt caccgagatc atcaatattt caccaacaga atttcaagcg
+      901 attaaagcaa atattaaatc aaatatccaa ggtaagtgta ctatcactcc gtttttacat
+      961 gtttgttggt ttgtatctct tcataaatgg ggtaaatttt tcaaaccatt gaacttcgaa
+     1021 tggcttacgg atatttttat ccccgcagat tgccgctcac aactaccaga tgatgatgaa
+     1081 atgagacaga tgtacagata tggcgctaac gttggattta ttgacttcac cccctggata
+     1141 agcgaatctg acatgaatga taacaaagaa aatttttggc cacttattga gcactaccat
+     1201 gaagtaattt cggaagcttt aagaaataaa aagcatctcc atggcttagg gttcaatata
+     1261 caaggcttcg ttcaaaaata tgtgaacatt gacaaggtaa tgtgcgatcg tgccatcggg
+     1321 aaaagacgcg gaggtacatt gttaagcaat gtaggtctgt ttaatcagtt agaggagccc
+     1381 gatgccaaat attctatatg cgatttggca tttggccaat ttcaaggatc ctggcaccaa
+     1441 gcattttcct tgggtgtttg ttcgactaat gtaaagggga tgaatattgt tgttgcttca
+     1501 acaaagaatg ttgttggtag tcaagaatct ctcgaagagc tttgctccat ttacaaagct
+     1561 ctccttttag gcccttaata a
+//

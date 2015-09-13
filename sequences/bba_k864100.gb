@@ -1,0 +1,20 @@
+LOCUS       BBa_K864100              723 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K864100 P 26995 Coding "Super Yellow Fluorescent Protein 2     
+            (SYFP2)"
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atggttagca agggcgaaga actttttaca ggcgtagtac cgatcttagt tgaattagac
+       61 ggcgacgtta acggtcataa gtttagcgtg agcggtgagg gtgaaggtga cgcaacttac
+      121 ggcaagctga ccctgaagct gatttgcacg acgggtaagc tgccggtccc gtggcctacc
+      181 ctggtcacga ccttgggtta tggcgttcag tgtttcgcgc gttatccgga ccacatgaaa
+      241 caacacgatt tctttaagag cgcgatgcca gaaggctatg tgcaggagcg tacgatcttt
+      301 ttcaaagacg acggtaacta caagacgcgt gccgaagtca aattcgaagg cgacaccctg
+      361 gtgaatcgca ttgagctgaa gggtattgat ttcaaagagg atggcaatat cctgggtcac
+      421 aagctggagt acaattacaa ttcccacaac gtttacatca ccgcagataa acagaaaaat
+      481 ggcatcaaag cgaatttcaa aatccgtcac aacattgagg acggtggtgt tcaactggcg
+      541 gatcattacc agcaaaacac cccgattggt gacggtccgg tcctgttgcc ggataaccat
+      601 tatctgtctt accaaagcaa actgagcaaa gatccgaacg agaagcgcga ccacatggtg
+      661 ctgctggagt ttgtgaccgc tgccggtatt accctgggta tggatgagct gtataaataa
+      721 taa
+//

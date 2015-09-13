@@ -1,0 +1,7 @@
+LOCUS       BBa_K608004               57 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K608004 P 22309 Intermediate "strong Promoter , weak RBS"      
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttgacagcta gctcagtcct aggtattgtg ctagctacta gagtcacaca ggaaacc
+//

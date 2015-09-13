@@ -1,0 +1,16 @@
+LOCUS       BBa_K314100              518 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K314100 A 19348 Composite "High constitutive expression        
+            cassette"
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 acgcgccctg tagcggcgca ttaagcgcgg cgggtgtggt ggttacgcgc agcgtgaccg
+       61 ctacacttgc cagcgcccta gcgcccgctc ctttcgcttt cttcccttcc tttctcgcca
+      121 cgttcgccgg ctttccccgt caagctctaa atcgggggct ccctttaggg ttccgattta
+      181 gtgctttacg gcacctcgac cccaaaaaac ttgattaggg tgatggttca cgtagtgggc
+      241 catcgccctg atagacggtt tttcgccctt tgacgttgga gtccacgttc tttaatagtg
+      301 gactcttgtt ccaaactgga acaacactca accctatctc ggtctattct tttgatttat
+      361 aagggatttt gccgatttcg gcctattggt taaaaaatga gctgatttaa caaaaattta
+      421 acgcgaattt taacaaaata ttaacgttta caatttacta gagttgacgg ctagctcagt
+      481 cctaggtaca gtgctagcta ctagagaaag aggagaaa
+//

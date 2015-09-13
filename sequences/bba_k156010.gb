@@ -1,0 +1,19 @@
+LOCUS       BBa_K156010              720 bp ds-DNA     linear       19-MAR-2015
+DEFINITION  .
+COMMENT     BBa_K156010 A 12939 Coding "SBFP2 (strongly enhanced blue          
+            fluorescent protein)"
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atggttagca aaggtgaaga gctgtttact ggtgttgttc cgatcctggt tgaactggac
+       61 ggtgatgtta acggccacaa gttctccgtg tctggcgaag gcgagggcga tgctacctac
+      121 ggtaaactga ccctgaagtt catctgtacc actggtaaac tgccggtacc gtggccgacc
+      181 ctggttacca ccctgagcca tggtgttcag tgttttgcac gttacccgga tcacatgaag
+      241 cagcatgatt tcttcaagtc tgcgatgccg gagggttacg tccaggaacg cactatcttc
+      301 ttcaaagacg acggcaacta taaaacccgt gccgaggtta agtttgaggg tgacaccctg
+      361 gtcaaccgta ttgaactgaa aggtatcgac ttcaaagaag acggcaacat tctgggtcac
+      421 aaactggagt acaacttcaa cagccataac gtgtacatca ccgccgataa acagaagaac
+      481 ggcatcaaag ctaacttcaa gattcgtcac aacatcgaag atggtggtgt tcaactggct
+      541 gatcactacc agcagaacac gccgatcggt gatggcccgg tactgctgcc tgacaaccat
+      601 tatctgtcta cccagtctaa actgagcaaa gacccgaatg agaaacgtga tcacatggtg
+      661 ctgctggagt tcgtgactgc ggcaggtatc acgctgggta tggacgaact gtataaatga
+//
